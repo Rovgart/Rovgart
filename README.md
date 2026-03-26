@@ -28,16 +28,6 @@ I am a **Computer Science Engineer (B.Eng.)** with **9 months of commercial expe
 
 ---
 
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rovgart&show_icons=true&theme=tokyonight&count_private=true" alt="Daniel's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rovgart&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
----
-
 ### 📫 Connect with me
 - **LinkedIn:** [linkedin.com/in/daniel-niedzielski](https://www.linkedin.com/in/your-profile/)
 - **Email:** daniel.niedziels@proton.me
